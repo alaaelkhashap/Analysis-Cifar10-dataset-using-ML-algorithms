@@ -13,7 +13,7 @@ Here are the classes in the dataset, as well as 5 random images from each:
 ## Main topics recovered in methodology
 * Dataset
   - Download the dataset
-  - Divide the raw data into appropriate training and test sets for both the images and corresponding labels for use with the subsequent parts of the assignment.
+  - Divide the raw data into appropriate training and test sets for both the images and corresponding labels .
   - Visualize five samples of each class by plotting a grid using the matplotlib library.
 
 * Modeling
