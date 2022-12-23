@@ -10,7 +10,7 @@ Here are the classes in the dataset, as well as 5 random images from each:
 
 ![image](https://user-images.githubusercontent.com/60587913/209399038-340a6b0c-81fd-41ee-86bb-78943a5574c4.png)
 
-## Main topics recovered in methodology
+## Main topics covered in methodology
 * Dataset
   - Download the dataset
   - Divide the raw data into appropriate training and test sets for both the images and corresponding labels .
