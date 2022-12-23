@@ -2,7 +2,7 @@
 
 
 ## Dataset
-using kaggle competitions download -c cifar-10 Dataset
+using https://www.kaggle.com/competitions/cifar-10/data 
 
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
